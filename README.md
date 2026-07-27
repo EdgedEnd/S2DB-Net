@@ -13,6 +13,11 @@
 
 - **[2026/7/22]** Our paper is now officially online in ISPRS Journal of Photogrammetry and Remote Sensing.
 
+## 📋 TODO
+
+- [ ] **Dataset Release** — Release the CV-Sidewalk dataset on [Hugging Face](https://huggingface.co/edged/CV-Sidewalk), including training/validation images and ground truth annotations.
+- [ ] **Code Release** — Open-source the full training and inference code, including model definitions, configuration files, and pretrained weights.
+
 ## 📝 Abstract
 
 Urban sidewalks are essential infrastructure for pedestrian mobility, and accurate acquisition of sidewalk geographic data is crucial for sustainable urban development. However, existing sidewalk detection methods based on satellite images commonly suffer from occlusions caused by street trees, buildings, and other urban structures, leading to discontinuities and omissions in the detection results. To address this issue, we propose S²DB-Net, a satellite and street-view dual-branch network informed by cross-view imaging geometry and geospatial alignment mechanism for urban sidewalk detection. Considering the imaging geometry differences between street-view and satellite images, we introduce an Implicit Perspective Transformation (IPT) module that transforms features from the street-view perspective to a bird's eye view (BEV) perspective via feature sampling and aggregation, aiming to align the feature spatial distributions across different perspectives and enhance fusion performance. Furthermore, leveraging the inherent geographic range consistency between perspectives, we design an auxiliary loss supervision structure, which mitigates the model's over-reliance on a single branch during the training process.
