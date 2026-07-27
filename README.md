@@ -4,7 +4,7 @@
   <br>
   <a href="https://www.sciencedirect.com/science/article/pii/S0924271626003503?ref=pdf_download&fr=RR-2&rr=a219d519092ceb6d">[Paper]</a> |
   <a href="https://github.com/EdgedEnd/S2DB-Net">[Code]</a> |
-  <a href="https://huggingface.co/edged/CV-Sidewalk">[Dataset]</a>
+  <a href="https://huggingface.co/datasets/edged/CV-Sidewalk">[Dataset]</a>
 </p>
 
 ![Architecture](S2DB-Net.png)
@@ -15,7 +15,7 @@
 
 ## 📋 TODO
 
-- [ ] **Dataset Release** — Release the CV-Sidewalk dataset on [Hugging Face](https://huggingface.co/edged/CV-Sidewalk), including training/validation images and ground truth annotations.
+- [ ] **Dataset Release** — Release the CV-Sidewalk dataset on [Hugging Face](https://huggingface.co/datasets/edged/CV-Sidewalk), including training/validation images and ground truth annotations.
 - [ ] **Code Release** — Open-source the full training and inference code, including model definitions, configuration files, and pretrained weights.
 
 ## 📝 Abstract
