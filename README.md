@@ -1,4 +1,4 @@
-<h2 align="center">S²DB-Net: Satellite-Street Dual-Branch Network for Urban Sidewalk Detection</h2>
+<h2 align="center">S²DB-Net: Urban sidewalk detection via a cross-view joint segmentation method using satellite and street-view imagery</h2>
 <p align="center">
   <b>ISPRS Journal of Photogrammetry and Remote Sensing</b> | 2026
   <br>
