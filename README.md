@@ -2,12 +2,12 @@
 <p align="center">
   <b>ISPRS Journal of Photogrammetry and Remote Sensing</b> | 2026
   <br>
-  <a href="https://openreview.net/pdf?id=OtLC2JNGZf">[Paper]</a> |
+  <a href="https://www.sciencedirect.com/science/article/pii/S0924271626003503?ref=pdf_download&fr=RR-2&rr=a219d519092ceb6d">[Paper]</a> |
   <a href="https://github.com/EdgedEnd/S2DB-Net">[Code]</a> |
   <a href="https://huggingface.co/EdgedEnd/S2DB-Net">[🤗 Model & Dataset]</a>
 </p>
 
-![Architecture](figs/S2DB-Net.png)
+![Architecture](S2DB-Net.png)
 
 ## 📣 News
 
